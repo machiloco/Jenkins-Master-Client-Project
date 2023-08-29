@@ -71,7 +71,7 @@ under the License.
        <repository>
          <id>nexus-release-repo</id>
          <name>your custom repo</name>
-         <url>http://172.31.87.183:8081/repository/maven-java-webapp-repository/</url>
+         <url>http://172.31.87.183:8081/repository/Maven-Java-WebApp-Repository/</url>
        </repository>
      </repositories>
    </profile>
